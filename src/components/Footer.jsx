@@ -22,7 +22,7 @@ function Footer() {
             ? "Got a question or proposal, or just want to say hello? Go ahead."
             : "Soru yada önerin varsa, yada sadece merhaba demek istiyorsan"}
         </p>
-        <p className={`footer-email ${theme}`}>hasancantural19@gmail.com</p>
+        <p className={`footer-email ${theme}`}>efecan.kahramann@gmail.com</p>
         <div className={`footer-social-media-icon`}>
           <FiTwitter className={`social-icon ${theme}`} />
           <RiCodepenFill className={`social-icon ${theme}`} />
